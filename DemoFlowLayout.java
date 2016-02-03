@@ -6,6 +6,7 @@ import javax.swing.WindowConstants;
 import javax.swing.JFrame;
 
 public class DemoFlowLayout {
+//somos chidos mas
 
 //hola los chidos.com
 } 
